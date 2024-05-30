@@ -18,5 +18,4 @@ The game ends when you miss a certain number of targets.
 Clone the repository to your local machine.
 Install the required dependencies using pip install -r requirements.txt.
 Run the game with python aim_trainer.py.
-Contributions:
-Contributions, feedback, and bug reports are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+
